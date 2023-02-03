@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is fileC
 Changes done to C
+=======
+This is fileCgit
+>>>>>>> FeatureA
